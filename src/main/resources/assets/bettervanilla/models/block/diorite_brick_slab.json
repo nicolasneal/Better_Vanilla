@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "particle": "bettervanilla:block/diorite_bricks",
+    "bottom": "bettervanilla:block/diorite_bricks",
+    "top": "bettervanilla:block/diorite_bricks",
+    "side": "bettervanilla:block/diorite_bricks"
+  },
+  "render_type": "solid"
+}

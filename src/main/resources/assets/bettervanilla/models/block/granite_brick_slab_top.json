@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "particle": "bettervanilla:block/granite_bricks",
+    "bottom": "bettervanilla:block/granite_bricks",
+    "top": "bettervanilla:block/granite_bricks",
+    "side": "bettervanilla:block/granite_bricks"
+  },
+  "render_type": "solid"
+}

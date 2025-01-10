@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "bettervanilla:block/polished_stone_slab"
+    },
+    "type=top": {
+      "model": "bettervanilla:block/polished_stone_slab_top"
+    },
+    "type=double": {
+      "model": "bettervanilla:block/polished_stone_slab_full"
+    }
+  }
+}

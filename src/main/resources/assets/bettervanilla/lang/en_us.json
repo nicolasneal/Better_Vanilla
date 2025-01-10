@@ -1,3 +1,26 @@
 {
-  "item.bettervanilla.pink_garnet": "Pink Garnet"
+  "block.bettervanilla.polished_stone": "Polished Stone",
+  "block.bettervanilla.polished_stone_stairs": "Polished Stone Stairs",
+  "block.bettervanilla.polished_stone_slab": "Polished Stone Slab",
+  "block.bettervanilla.smooth_stone_stairs": "Smooth Stone Stairs",
+  "block.bettervanilla.andesite_bricks": "Andesite Bricks",
+  "block.bettervanilla.andesite_brick_stairs": "Andesite Brick Stairs",
+  "block.bettervanilla.andesite_brick_slab": "Andesite Brick Slab",
+  "block.bettervanilla.chiseled_andesite": "Chiseled Andesite",
+  "block.bettervanilla.granite_bricks": "Granite Bricks",
+  "block.bettervanilla.granite_brick_stairs": "Granite Brick Stairs",
+  "block.bettervanilla.granite_brick_slab": "Granite Brick Slab",
+  "block.bettervanilla.chiseled_granite": "Chiseled Granite",
+  "block.bettervanilla.diorite_bricks": "Diorite Bricks",
+  "block.bettervanilla.diorite_brick_stairs": "Diorite Brick Stairs",
+  "block.bettervanilla.diorite_brick_slab": "Diorite Brick Slab",
+  "block.bettervanilla.chiseled_diorite": "Chiseled Diorite",
+  "block.bettervanilla.polished_end_stone": "Polished End Stone",
+  "item.bettervanilla.hide": "Hide",
+  "item.bettervanilla.squid": "Squid",
+  "item.bettervanilla.calamari": "Calamari",
+  "item.bettervanilla.bear": "Bear",
+  "item.bettervanilla.cooked_bear": "Cooked Bear",
+  "item.bettervanilla.frog_legs": "Frog Legs",
+  "item.bettervanilla.cooked_frog_legs": "Cooked Frog Legs"
 }

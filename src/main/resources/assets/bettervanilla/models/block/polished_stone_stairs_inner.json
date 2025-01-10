@@ -1,0 +1,10 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "particle": "bettervanilla:block/polished_stone",
+    "bottom": "bettervanilla:block/polished_stone",
+    "top": "bettervanilla:block/polished_stone",
+    "side": "bettervanilla:block/polished_stone"
+  },
+  "render_type": "solid"
+}

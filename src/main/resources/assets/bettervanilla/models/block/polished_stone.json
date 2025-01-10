@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "bettervanilla:block/polished_stone",
+    "particle": "bettervanilla:block/polished_stone"
+  },
+  "render_type": "solid"
+}
