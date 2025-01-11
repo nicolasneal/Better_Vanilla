@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "bettervanilla:andesite_bricks"
+    }
+  },
+  "result": {
+    "item": "bettervanilla:andesite_brick_slab",
+    "count": 4
+  }
+}

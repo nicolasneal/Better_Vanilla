@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "bettervanilla:diorite_bricks"
+    }
+  },
+  "result": {
+    "item": "bettervanilla:diorite_brick_slab",
+    "count": 4
+  }
+}

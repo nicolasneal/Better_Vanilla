@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "a ",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "bettervanilla:granite_bricks"
+    }
+  },
+  "result": {
+    "item": "bettervanilla:granite_brick_stairs",
+    "count": 4
+  }
+}

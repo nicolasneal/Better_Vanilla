@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "food",
+  "experience": 0.35,
+  "cookingtime": 600,
+  "ingredient": {
+    "item": "bettervanilla:frog_legs"
+  },
+  "result": "bettervanilla:cooked_frog_legs"
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:polished_andesite"
+    }
+  },
+  "result": {
+    "item": "bettervanilla:chiseled_andesite",
+    "count": 1
+  }
+}

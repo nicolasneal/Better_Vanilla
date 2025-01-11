@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "a ",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:smooth_stone"
+    }
+  },
+  "result": {
+    "item": "bettervanilla:smooth_stone_stairs",
+    "count": 4
+  }
+}

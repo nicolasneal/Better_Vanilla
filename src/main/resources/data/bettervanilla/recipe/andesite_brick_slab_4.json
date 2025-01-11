@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "bettervanilla:andesite_bricks"
+  },
+  "result": "bettervanilla:andesite_brick_slab"
+}

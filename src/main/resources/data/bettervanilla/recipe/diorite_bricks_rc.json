@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:polished_diorite"
+    }
+  },
+  "result": {
+    "item": "bettervanilla:diorite_bricks",
+    "count": 4
+  }
+}

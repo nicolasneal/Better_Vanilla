@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a ",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "bettervanilla:polished_stone"
+    }
+  },
+  "result": {
+    "item": "bettervanilla:polished_stone_stairs",
+    "count": 4
+  }
+}
